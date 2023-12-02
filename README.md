@@ -13,4 +13,4 @@ My qnx version is 7.10
 - [x] command cheet-sheet
 - [ ] profiling: gprof without IDE
 - [ ] debugging: gdb without IDE
-- [ ] real time tuning: pidin, pidin mem, pidin info, pidin time, pidin -p
+- [ ] real time tuning tools
